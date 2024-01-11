@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@200;500&family=Oswald:wght@500&family=Russo+One&display=swap');
+#headings {
+    
+    text-align: center;
+border-style: double;
+}
+#top {
+    margin-top: 110px;
+}
+ul{
+    margin: 0px auto 0px auto;
+    
+    border-top: 3px solid black;
+    border-bottom: 2px solid black;
+    padding: 15 px;
+    width: 550px;
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+li{
+    display: inline;
+    margin: 0px 3px;
+    
+}
+#top {
+    font-family: 'Bitter', serif;;
+}
+#hybrid {
+    font-family: 'Bitter', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Russo One', sans-serif;
+    
+        
+}
